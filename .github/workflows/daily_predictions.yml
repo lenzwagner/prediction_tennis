@@ -1,0 +1,49 @@
+name: Daily Tennis Predictions
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # täglich 06:00 UTC (08:00 MEZ)
+  workflow_dispatch:        # manueller Start über GitHub UI
+
+jobs:
+  predict:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Pull LFS files
+        run: git lfs pull
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Restore Odds Cache
+        uses: actions/cache@v4
+        with:
+          path: cache/odds/
+          key: odds-cache-${{ github.run_number }}
+          restore-keys: odds-cache-
+
+      - name: Run Predictions
+        env:
+          TENNIS_API_KEY: ${{ secrets.TENNIS_API_KEY }}
+        run: python predict.py
+
+      - name: Commit Predictions JSON
+        run: |
+          git config user.name  "PredBot"
+          git config user.email "bot@tennis-pred.github.com"
+          git add predictions_latest.json
+          git diff --staged --quiet || git commit -m "Predictions $(date -u +%Y-%m-%d)"
+          git push

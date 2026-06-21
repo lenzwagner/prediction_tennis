@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+cache/odds/
+cache/injuries_scraped.json
+predictions_20*.csv
+matches_raw.pkl
+*.log
+.DS_Store
+# tennis_model.pkl wird per Git LFS getrackt (nicht ignoriert)
