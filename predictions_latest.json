@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "generated_at": "2026-06-21T11:27:41Z",
+  "generated_at": "2026-06-21T18:35:54Z",
   "matches": [
     {
       "time": "10:10",
@@ -9,10 +9,12 @@
       "surface": "Hard",
       "round": "Plovdiv - Semi-finals",
       "p1": "T. Berkieta",
+      "p1_fullname": "Tomasz Berkieta",
       "p2": "E. Ambarzumjan",
+      "p2_fullname": "Edison Ambarzumjan",
       "p1_prob": 0.9518,
       "p2_prob": 0.0482,
-      "favorite": "T. Berkieta",
+      "favorite": "Tomasz Berkieta",
       "confidence": 0.9037
     },
     {
@@ -22,10 +24,12 @@
       "surface": "Clay",
       "round": "Targu Mures - Semi-finals",
       "p1": "R. M. Papoe",
+      "p1_fullname": "Mihai Papoe Radu",
       "p2": "D. Uta",
+      "p2_fullname": "Daniel Uta",
       "p1_prob": 0.939,
       "p2_prob": 0.061,
-      "favorite": "R. M. Papoe",
+      "favorite": "Mihai Papoe Radu",
       "confidence": 0.878
     },
     {
@@ -35,10 +39,12 @@
       "surface": "Clay",
       "round": "Piracicaba - Semi-finals",
       "p1": "I. Parisca",
+      "p1_fullname": "Ignacio Parisca",
       "p2": "V. Braga",
+      "p2_fullname": "Victor Braga",
       "p1_prob": 0.9104,
       "p2_prob": 0.0896,
-      "favorite": "I. Parisca",
+      "favorite": "Ignacio Parisca",
       "confidence": 0.8208
     },
     {
@@ -48,10 +54,12 @@
       "surface": "Clay",
       "round": "Targu Mures - Semi-finals",
       "p1": "O. Roca Batalla",
+      "p1_fullname": "Oriol Roca Batalla",
       "p2": "M. R. Marinescu",
+      "p2_fullname": "Razvan Marinescu Mihai",
       "p1_prob": 0.8799,
       "p2_prob": 0.1201,
-      "favorite": "O. Roca Batalla",
+      "favorite": "Oriol Roca Batalla",
       "confidence": 0.7598
     },
     {
@@ -61,10 +69,12 @@
       "surface": "Clay",
       "round": "Targu Mures - Semi-finals",
       "p1": "F. Balshaw",
+      "p1_fullname": "Felix Balshaw",
       "p2": "F. Ribero",
+      "p2_fullname": "Franco Ribero",
       "p1_prob": 0.8537,
       "p2_prob": 0.1463,
-      "favorite": "F. Balshaw",
+      "favorite": "Felix Balshaw",
       "confidence": 0.7074
     },
     {
@@ -74,10 +84,12 @@
       "surface": "Hard",
       "round": "Plovdiv - Semi-finals",
       "p1": "A. Tolev",
+      "p1_fullname": "A. Tolev",
       "p2": "P. Dev S D",
+      "p2_fullname": "Prajwal Dev S D",
       "p1_prob": 0.1651,
       "p2_prob": 0.8349,
-      "favorite": "P. Dev S D",
+      "favorite": "Prajwal Dev S D",
       "confidence": 0.6698
     },
     {
@@ -87,10 +99,12 @@
       "surface": "Clay",
       "round": "Targu Mures - Semi-finals",
       "p1": "J. Sperle",
+      "p1_fullname": "John Sperle",
       "p2": "D. Palan",
+      "p2_fullname": "Dominik Palan",
       "p1_prob": 0.8234,
       "p2_prob": 0.1766,
-      "favorite": "J. Sperle",
+      "favorite": "John Sperle",
       "confidence": 0.6468
     },
     {
@@ -100,10 +114,12 @@
       "surface": "Clay",
       "round": "Piracicaba - Semi-finals",
       "p1": "G. Ribeiro de Almeida",
+      "p1_fullname": "Gustavo Ribeiro de Almeida",
       "p2": "P. Rodrigues Longobardi",
+      "p2_fullname": "P. Rodrigues Longobardi",
       "p1_prob": 0.8041,
       "p2_prob": 0.1959,
-      "favorite": "G. Ribeiro de Almeida",
+      "favorite": "Gustavo Ribeiro de Almeida",
       "confidence": 0.6081
     },
     {
@@ -113,7 +129,9 @@
       "surface": "Hard",
       "round": "Plovdiv - Semi-finals",
       "p1": "P. Fajta",
+      "p1_fullname": "Peter Fajta",
       "p2": "A. Ganchev",
+      "p2_fullname": "A. Ganchev",
       "p1_prob": 0.2399,
       "p2_prob": 0.7601,
       "favorite": "A. Ganchev",
@@ -126,10 +144,12 @@
       "surface": "Grass",
       "round": "WTA Bad Homburg - 1/16-finals",
       "p1": "N. Osaka",
+      "p1_fullname": "Naomi Osaka",
       "p2": "M. Frech",
+      "p2_fullname": "Magdalena Frech",
       "p1_prob": 0.7541,
       "p2_prob": 0.2459,
-      "favorite": "N. Osaka",
+      "favorite": "Naomi Osaka",
       "confidence": 0.5081
     },
     {
@@ -139,10 +159,12 @@
       "surface": "Clay",
       "round": "Targu Mures - Semi-finals",
       "p1": "L. Potenza",
+      "p1_fullname": "Luca Potenza",
       "p2": "M. Varbanciu",
+      "p2_fullname": "Matei Varbanciu",
       "p1_prob": 0.7373,
       "p2_prob": 0.2627,
-      "favorite": "L. Potenza",
+      "favorite": "Luca Potenza",
       "confidence": 0.4745
     },
     {
@@ -152,10 +174,12 @@
       "surface": "Clay",
       "round": "?",
       "p1": "C. Cretu",
+      "p1_fullname": "Cezar Cretu",
       "p2": "N. Barrientos",
+      "p2_fullname": "Nicolas Barrientos",
       "p1_prob": 0.7347,
       "p2_prob": 0.2653,
-      "favorite": "C. Cretu",
+      "favorite": "Cezar Cretu",
       "confidence": 0.4694
     },
     {
@@ -165,10 +189,12 @@
       "surface": "Clay",
       "round": "Piracicaba - Semi-finals",
       "p1": "A. de Camargo Silva",
+      "p1_fullname": "Andre Souza Pinto de Camargo e Silva",
       "p2": "R. Tosetto",
+      "p2_fullname": "Rafael Tosetto",
       "p1_prob": 0.2744,
       "p2_prob": 0.7256,
-      "favorite": "R. Tosetto",
+      "favorite": "Rafael Tosetto",
       "confidence": 0.4512
     },
     {
@@ -178,10 +204,12 @@
       "surface": "Hard",
       "round": "Plovdiv - Semi-finals",
       "p1": "R. Faucon",
+      "p1_fullname": "Romain Faucon",
       "p2": "W. Rejchtman Vinciguerra",
+      "p2_fullname": "William Rejchtman Vinciguerra",
       "p1_prob": 0.7202,
       "p2_prob": 0.2798,
-      "favorite": "R. Faucon",
+      "favorite": "Romain Faucon",
       "confidence": 0.4404
     },
     {
@@ -191,10 +219,12 @@
       "surface": "Clay",
       "round": "Piracicaba - Semi-finals",
       "p1": "A. Huertas Del Pino Cordova",
+      "p1_fullname": "Arklon Huertas Del Pino Cordova",
       "p2": "B. Braga",
+      "p2_fullname": "Breno Braga",
       "p1_prob": 0.7154,
       "p2_prob": 0.2846,
-      "favorite": "A. Huertas Del Pino Cordova",
+      "favorite": "Arklon Huertas Del Pino Cordova",
       "confidence": 0.4309
     },
     {
@@ -204,10 +234,12 @@
       "surface": "Clay",
       "round": "Piracicaba - Semi-finals",
       "p1": "W. Leite",
+      "p1_fullname": "Wilson Leite",
       "p2": "E. Camargo Lima",
+      "p2_fullname": "Enzo Camargo Lima",
       "p1_prob": 0.7052,
       "p2_prob": 0.2948,
-      "favorite": "W. Leite",
+      "favorite": "Wilson Leite",
       "confidence": 0.4104
     },
     {
@@ -217,10 +249,12 @@
       "surface": "Clay",
       "round": "Piracicaba - Semi-finals",
       "p1": "N. Zanellato",
+      "p1_fullname": "Nicolas Zanellato",
       "p2": "G. Schenekenberg",
+      "p2_fullname": "Gabriel Schenekenberg",
       "p1_prob": 0.7039,
       "p2_prob": 0.2961,
-      "favorite": "N. Zanellato",
+      "favorite": "Nicolas Zanellato",
       "confidence": 0.4079
     },
     {
@@ -230,10 +264,12 @@
       "surface": "Clay",
       "round": "ATP Mallorca - Final",
       "p1": "A. Molcan",
+      "p1_fullname": "Alex Molcan",
       "p2": "M. Cassone",
+      "p2_fullname": "Murphy Cassone",
       "p1_prob": 0.7027,
       "p2_prob": 0.2973,
-      "favorite": "A. Molcan",
+      "favorite": "Alex Molcan",
       "confidence": 0.4054
     },
     {
@@ -243,10 +279,12 @@
       "surface": "Hard",
       "round": "Plovdiv - Semi-finals",
       "p1": "I. Lopez Morillo",
+      "p1_fullname": "Imanol Lopez Morillo",
       "p2": "M. Borisov",
+      "p2_fullname": "Maximilian Borisov",
       "p1_prob": 0.7007,
       "p2_prob": 0.2993,
-      "favorite": "I. Lopez Morillo",
+      "favorite": "Imanol Lopez Morillo",
       "confidence": 0.4014
     },
     {
@@ -256,10 +294,12 @@
       "surface": "Clay",
       "round": "Piracicaba - Semi-finals",
       "p1": "S. Goity Zapico",
+      "p1_fullname": "Segundo Goity Zapico",
       "p2": "N. Oliveira",
+      "p2_fullname": "Nicolas Oliveira",
       "p1_prob": 0.3355,
       "p2_prob": 0.6645,
-      "favorite": "N. Oliveira",
+      "favorite": "Nicolas Oliveira",
       "confidence": 0.329
     },
     {
@@ -269,10 +309,12 @@
       "surface": "Grass",
       "round": "ATP Eastbourne - Final",
       "p1": "M. Giron",
+      "p1_fullname": "Marcos Giron",
       "p2": "J. Choinski",
+      "p2_fullname": "Jan Choinski",
       "p1_prob": 0.6575,
       "p2_prob": 0.3425,
-      "favorite": "M. Giron",
+      "favorite": "Marcos Giron",
       "confidence": 0.315
     },
     {
@@ -282,10 +324,12 @@
       "surface": "Clay",
       "round": "ATP Mallorca - Final",
       "p1": "A. Walton",
+      "p1_fullname": "Adam Walton",
       "p2": "A. Ghibaudo",
+      "p2_fullname": "Antoine Ghibaudo",
       "p1_prob": 0.6459,
       "p2_prob": 0.3541,
-      "favorite": "A. Walton",
+      "favorite": "Adam Walton",
       "confidence": 0.2917
     },
     {
@@ -295,10 +339,12 @@
       "surface": "Clay",
       "round": "Targu Mures - Semi-finals",
       "p1": "S. Palosi",
+      "p1_fullname": "Stefan Palosi",
       "p2": "R. D. Turcanu",
+      "p2_fullname": "David Turcanu Radu",
       "p1_prob": 0.6408,
       "p2_prob": 0.3592,
-      "favorite": "S. Palosi",
+      "favorite": "Stefan Palosi",
       "confidence": 0.2817
     },
     {
@@ -308,10 +354,12 @@
       "surface": "Hard",
       "round": "Plovdiv - Semi-finals",
       "p1": "D. Kisimov",
+      "p1_fullname": "Dimitar Kisimov",
       "p2": "G. Campana Lee",
+      "p2_fullname": "Gerard Campana Lee",
       "p1_prob": 0.3622,
       "p2_prob": 0.6378,
-      "favorite": "G. Campana Lee",
+      "favorite": "Gerard Campana Lee",
       "confidence": 0.2757
     },
     {
@@ -321,10 +369,12 @@
       "surface": "Clay",
       "round": "Targu Mures - Semi-finals",
       "p1": "C. S. Bentzel",
+      "p1_fullname": "Stefan Bentzel Cezar",
       "p2": "A. F. Rubio Fierros",
+      "p2_fullname": "Fernando Rubio Fierros Alan",
       "p1_prob": 0.3736,
       "p2_prob": 0.6264,
-      "favorite": "A. F. Rubio Fierros",
+      "favorite": "Fernando Rubio Fierros Alan",
       "confidence": 0.2527
     },
     {
@@ -334,10 +384,12 @@
       "surface": "Clay",
       "round": "ATP Mallorca - 1/16-finals",
       "p1": "Y. Hanfmann",
+      "p1_fullname": "Yannick Hanfmann",
       "p2": "D. Vallejo",
+      "p2_fullname": "Daniel Vallejo Adolfo",
       "p1_prob": 0.6263,
       "p2_prob": 0.3737,
-      "favorite": "Y. Hanfmann",
+      "favorite": "Yannick Hanfmann",
       "confidence": 0.2526
     },
     {
@@ -347,10 +399,12 @@
       "surface": "Hard",
       "round": "Plovdiv - Semi-finals",
       "p1": "A. Mazdrashki",
+      "p1_fullname": "Anas Mazdrashki",
       "p2": "N. Belozertsev",
+      "p2_fullname": "N. Belozertsev",
       "p1_prob": 0.6236,
       "p2_prob": 0.3764,
-      "favorite": "A. Mazdrashki",
+      "favorite": "Anas Mazdrashki",
       "confidence": 0.2471
     },
     {
@@ -360,10 +414,12 @@
       "surface": "Hard",
       "round": "Plovdiv - Semi-finals",
       "p1": "F. Zakaria",
+      "p1_fullname": "Fares Zakaria",
       "p2": "T. J. Fancutt",
+      "p2_fullname": "John Fancutt Thomas",
       "p1_prob": 0.621,
       "p2_prob": 0.379,
-      "favorite": "F. Zakaria",
+      "favorite": "Fares Zakaria",
       "confidence": 0.2419
     },
     {
@@ -373,10 +429,12 @@
       "surface": "Grass",
       "round": "WTA Eastbourne - Final",
       "p1": "Z. Sonmez",
+      "p1_fullname": "Zeynep Sonmez",
       "p2": "E. Jacquemot",
+      "p2_fullname": "Elsa Jacquemot",
       "p1_prob": 0.6172,
       "p2_prob": 0.3828,
-      "favorite": "Z. Sonmez",
+      "favorite": "Zeynep Sonmez",
       "confidence": 0.2345
     },
     {
@@ -386,10 +444,12 @@
       "surface": "Grass",
       "round": "WTA Eastbourne - Final",
       "p1": "A. Tomljanovic",
+      "p1_fullname": "Ajla Tomljanovic",
       "p2": "V. Erjavec",
+      "p2_fullname": "Veronika Erjavec",
       "p1_prob": 0.616,
       "p2_prob": 0.384,
-      "favorite": "A. Tomljanovic",
+      "favorite": "Ajla Tomljanovic",
       "confidence": 0.232
     },
     {
@@ -399,10 +459,12 @@
       "surface": "Clay",
       "round": "Piracicaba - Semi-finals",
       "p1": "V. H. Remondy Pagotto",
+      "p1_fullname": "Hugo Remondy Pagotto Victor",
       "p2": "L. Andrade da Silva",
+      "p2_fullname": "Lucas Andrade da Silva",
       "p1_prob": 0.3846,
       "p2_prob": 0.6154,
-      "favorite": "L. Andrade da Silva",
+      "favorite": "Lucas Andrade da Silva",
       "confidence": 0.2308
     },
     {
@@ -412,10 +474,12 @@
       "surface": "Hard",
       "round": "Plovdiv - Semi-finals",
       "p1": "T. Huang",
+      "p1_fullname": "Tsung-Hao Huang",
       "p2": "N. K. Sinha",
+      "p2_fullname": "Kumar Sinha Nitin",
       "p1_prob": 0.6108,
       "p2_prob": 0.3892,
-      "favorite": "T. Huang",
+      "favorite": "Tsung-Hao Huang",
       "confidence": 0.2216
     },
     {
@@ -425,10 +489,12 @@
       "surface": "Grass",
       "round": "WTA Bad Homburg - Final",
       "p1": "D. Parry",
+      "p1_fullname": "Diane Parry",
       "p2": "I. Begu",
+      "p2_fullname": "Irina-Camelia Begu",
       "p1_prob": 0.6081,
       "p2_prob": 0.3919,
-      "favorite": "D. Parry",
+      "favorite": "Diane Parry",
       "confidence": 0.2162
     },
     {
@@ -438,10 +504,12 @@
       "surface": "Grass",
       "round": "WTA Eastbourne - Final",
       "p1": "P. Marcinko",
+      "p1_fullname": "Petra Marcinko",
       "p2": "D. Snigur",
+      "p2_fullname": "Daria Snigur",
       "p1_prob": 0.392,
       "p2_prob": 0.608,
-      "favorite": "D. Snigur",
+      "favorite": "Daria Snigur",
       "confidence": 0.216
     },
     {
@@ -451,10 +519,12 @@
       "surface": "Clay",
       "round": "WTA Berlin - Final",
       "p1": "J. Pegula",
+      "p1_fullname": "Jessica Pegula",
       "p2": "L. Noskova",
+      "p2_fullname": "Linda Noskova",
       "p1_prob": 0.6014,
       "p2_prob": 0.3986,
-      "favorite": "J. Pegula",
+      "favorite": "Jessica Pegula",
       "confidence": 0.2028
     },
     {
@@ -464,10 +534,12 @@
       "surface": "Clay",
       "round": "Targu Mures - Semi-finals",
       "p1": "A. Kalyanpur",
+      "p1_fullname": "Adil Kalyanpur",
       "p2": "S. Gima",
+      "p2_fullname": "Sebastian Gima",
       "p1_prob": 0.4012,
       "p2_prob": 0.5988,
-      "favorite": "S. Gima",
+      "favorite": "Sebastian Gima",
       "confidence": 0.1977
     },
     {
@@ -477,10 +549,12 @@
       "surface": "Grass",
       "round": "WTA Eastbourne - Final",
       "p1": "S. Johnson",
+      "p1_fullname": "Sofia Johnson",
       "p2": "E. Arango",
+      "p2_fullname": "Emiliana Arango",
       "p1_prob": 0.402,
       "p2_prob": 0.598,
-      "favorite": "E. Arango",
+      "favorite": "Emiliana Arango",
       "confidence": 0.1959
     },
     {
@@ -490,10 +564,12 @@
       "surface": "Grass",
       "round": "WTA Bad Homburg - Final",
       "p1": "S. Sierra",
+      "p1_fullname": "Solana Sierra",
       "p2": "A. Blinkova",
+      "p2_fullname": "Anna Blinkova",
       "p1_prob": 0.5917,
       "p2_prob": 0.4083,
-      "favorite": "S. Sierra",
+      "favorite": "Solana Sierra",
       "confidence": 0.1834
     },
     {
@@ -503,10 +579,12 @@
       "surface": "Clay",
       "round": "Piracicaba - Semi-finals",
       "p1": "T. Cigarran",
+      "p1_fullname": "Thiago Cigarran",
       "p2": "H. Ortenblad Nogueira",
+      "p2_fullname": "Henrique Ortenblad Nogueira",
       "p1_prob": 0.5829,
       "p2_prob": 0.4171,
-      "favorite": "T. Cigarran",
+      "favorite": "Thiago Cigarran",
       "confidence": 0.1658
     },
     {
@@ -516,10 +594,12 @@
       "surface": "Grass",
       "round": "WTA Bad Homburg - Final",
       "p1": "R. Zarazua",
+      "p1_fullname": "Renata Zarazua",
       "p2": "S. Kraus",
+      "p2_fullname": "Sinja Kraus",
       "p1_prob": 0.581,
       "p2_prob": 0.419,
-      "favorite": "R. Zarazua",
+      "favorite": "Renata Zarazua",
       "confidence": 0.1619
     },
     {
@@ -529,10 +609,12 @@
       "surface": "Hard",
       "round": "Plovdiv - Semi-finals",
       "p1": "V. Markov",
+      "p1_fullname": "Viktor Markov",
       "p2": "D. Dinev",
+      "p2_fullname": "Dinko Dinev",
       "p1_prob": 0.5799,
       "p2_prob": 0.4201,
-      "favorite": "V. Markov",
+      "favorite": "Viktor Markov",
       "confidence": 0.1599
     },
     {
@@ -542,10 +624,12 @@
       "surface": "Clay",
       "round": "ATP Mallorca - Final",
       "p1": "A. Shelbayh",
+      "p1_fullname": "Abedallah Shelbayh",
       "p2": "M. Polmans",
+      "p2_fullname": "Marc Polmans",
       "p1_prob": 0.5738,
       "p2_prob": 0.4262,
-      "favorite": "A. Shelbayh",
+      "favorite": "Abedallah Shelbayh",
       "confidence": 0.1477
     },
     {
@@ -555,10 +639,12 @@
       "surface": "Grass",
       "round": "WTA Bad Homburg - Final",
       "p1": "G. Ruse",
+      "p1_fullname": "Gabriela Ruse Elena",
       "p2": "T. Townsend",
+      "p2_fullname": "Taylor Townsend",
       "p1_prob": 0.5722,
       "p2_prob": 0.4278,
-      "favorite": "G. Ruse",
+      "favorite": "Gabriela Ruse Elena",
       "confidence": 0.1444
     },
     {
@@ -568,10 +654,12 @@
       "surface": "Clay",
       "round": "?",
       "p1": "S. A. Andreescu",
+      "p1_fullname": "Adrian Andreescu Stefan",
       "p2": "M. Janvier",
+      "p2_fullname": "Maxime Janvier",
       "p1_prob": 0.5717,
       "p2_prob": 0.4283,
-      "favorite": "S. A. Andreescu",
+      "favorite": "Adrian Andreescu Stefan",
       "confidence": 0.1434
     },
     {
@@ -581,10 +669,12 @@
       "surface": "Hard",
       "round": "Plovdiv - Semi-finals",
       "p1": "I. Vasa",
+      "p1_fullname": "Iiro Vasa",
       "p2": "L. Angelini",
+      "p2_fullname": "Lorenzo Angelini",
       "p1_prob": 0.4303,
       "p2_prob": 0.5697,
-      "favorite": "L. Angelini",
+      "favorite": "Lorenzo Angelini",
       "confidence": 0.1394
     },
     {
@@ -594,10 +684,12 @@
       "surface": "Grass",
       "round": "WTA Eastbourne - Final",
       "p1": "O. Selekhmeteva",
+      "p1_fullname": "Oksana Selekhmeteva",
       "p2": "A. Zakharova",
+      "p2_fullname": "Anastasia Zakharova",
       "p1_prob": 0.5682,
       "p2_prob": 0.4318,
-      "favorite": "O. Selekhmeteva",
+      "favorite": "Oksana Selekhmeteva",
       "confidence": 0.1364
     },
     {
@@ -607,10 +699,12 @@
       "surface": "Hard",
       "round": "Plovdiv - Semi-finals",
       "p1": "A. Rai",
+      "p1_fullname": "Ajeet Rai",
       "p2": "D. N. Cazacu",
+      "p2_fullname": "Nicolae Cazacu Dragos",
       "p1_prob": 0.5639,
       "p2_prob": 0.4361,
-      "favorite": "A. Rai",
+      "favorite": "Ajeet Rai",
       "confidence": 0.1278
     },
     {
@@ -620,10 +714,12 @@
       "surface": "Grass",
       "round": "WTA Bad Homburg - 1/16-finals",
       "p1": "I. Jovic",
+      "p1_fullname": "Iva Jovic",
       "p2": "Xin. Wang",
+      "p2_fullname": "Xinyu Wang",
       "p1_prob": 0.5606,
       "p2_prob": 0.4394,
-      "favorite": "I. Jovic",
+      "favorite": "Iva Jovic",
       "confidence": 0.1212
     },
     {
@@ -633,10 +729,12 @@
       "surface": "Clay",
       "round": "ATP Mallorca - 1/16-finals",
       "p1": "N. Borges",
+      "p1_fullname": "Nuno Borges",
       "p2": "A. Mannarino",
+      "p2_fullname": "Adrian Mannarino",
       "p1_prob": 0.5606,
       "p2_prob": 0.4394,
-      "favorite": "N. Borges",
+      "favorite": "Nuno Borges",
       "confidence": 0.1211
     },
     {
@@ -646,10 +744,12 @@
       "surface": "Grass",
       "round": "ATP Halle - Final",
       "p1": "T. Fritz",
+      "p1_fullname": "Taylor Fritz",
       "p2": "F. Tiafoe",
+      "p2_fullname": "Frances Tiafoe",
       "p1_prob": 0.56,
       "p2_prob": 0.44,
-      "favorite": "T. Fritz",
+      "favorite": "Taylor Fritz",
       "confidence": 0.12
     },
     {
@@ -659,10 +759,12 @@
       "surface": "Clay",
       "round": "Piracicaba - Semi-finals",
       "p1": "V. Basel",
+      "p1_fullname": "Valentin Basel",
       "p2": "S. Price",
+      "p2_fullname": "Salvador Price",
       "p1_prob": 0.5553,
       "p2_prob": 0.4447,
-      "favorite": "V. Basel",
+      "favorite": "Valentin Basel",
       "confidence": 0.1107
     },
     {
@@ -672,10 +774,12 @@
       "surface": "Clay",
       "round": "ATP Mallorca - 1/16-finals",
       "p1": "M. Navone",
+      "p1_fullname": "Mariano Navone",
       "p2": "L. Sonego",
+      "p2_fullname": "Lorenzo Sonego",
       "p1_prob": 0.4492,
       "p2_prob": 0.5508,
-      "favorite": "L. Sonego",
+      "favorite": "Lorenzo Sonego",
       "confidence": 0.1016
     },
     {
@@ -685,10 +789,12 @@
       "surface": "Grass",
       "round": "ATP London - Final",
       "p1": "F. Cerundolo",
+      "p1_fullname": "Francisco Cerundolo",
       "p2": "T. Paul",
+      "p2_fullname": "Tommy Paul",
       "p1_prob": 0.4493,
       "p2_prob": 0.5507,
-      "favorite": "T. Paul",
+      "favorite": "Tommy Paul",
       "confidence": 0.1014
     },
     {
@@ -698,10 +804,12 @@
       "surface": "Clay",
       "round": "Targu Mures - Semi-finals",
       "p1": "N. D. Ionel",
+      "p1_fullname": "David Ionel Nicholas",
       "p2": "D. Yevseyev",
+      "p2_fullname": "Denis Yevseyev",
       "p1_prob": 0.4518,
       "p2_prob": 0.5482,
-      "favorite": "D. Yevseyev",
+      "favorite": "Denis Yevseyev",
       "confidence": 0.0964
     },
     {
@@ -711,10 +819,12 @@
       "surface": "Grass",
       "round": "WTA Nottingham - Final",
       "p1": "M. Bouzkova",
+      "p1_fullname": "Marie Bouzkova",
       "p2": "E. Navarro",
+      "p2_fullname": "Emma Navarro",
       "p1_prob": 0.5469,
       "p2_prob": 0.4531,
-      "favorite": "M. Bouzkova",
+      "favorite": "Marie Bouzkova",
       "confidence": 0.0938
     },
     {
@@ -724,10 +834,12 @@
       "surface": "Grass",
       "round": "ATP Eastbourne - Final",
       "p1": "G. Hussey",
+      "p1_fullname": "Giles Hussey",
       "p2": "M. Trungelliti",
+      "p2_fullname": "Marco Trungelliti",
       "p1_prob": 0.4553,
       "p2_prob": 0.5447,
-      "favorite": "M. Trungelliti",
+      "favorite": "Marco Trungelliti",
       "confidence": 0.0894
     },
     {
@@ -737,10 +849,12 @@
       "surface": "Clay",
       "round": "Brescia - Final",
       "p1": "Xiy. Wang",
+      "p1_fullname": "Xiyu Wang",
       "p2": "M. Sherif",
+      "p2_fullname": "Mayar Sherif",
       "p1_prob": 0.5403,
       "p2_prob": 0.4597,
-      "favorite": "Xiy. Wang",
+      "favorite": "Xiyu Wang",
       "confidence": 0.0805
     },
     {
@@ -750,10 +864,12 @@
       "surface": "Clay",
       "round": "Targu Mures - Semi-finals",
       "p1": "R. Guna",
+      "p1_fullname": "Robert Guna",
       "p2": "P. Makk",
+      "p2_fullname": "Peter Makk",
       "p1_prob": 0.4608,
       "p2_prob": 0.5392,
-      "favorite": "P. Makk",
+      "favorite": "Peter Makk",
       "confidence": 0.0784
     },
     {
@@ -763,10 +879,12 @@
       "surface": "Grass",
       "round": "WTA Bad Homburg - 1/16-finals",
       "p1": "K. Boulter",
+      "p1_fullname": "Katie Boulter",
       "p2": "L. Fernandez",
+      "p2_fullname": "Leylah Fernandez",
       "p1_prob": 0.5385,
       "p2_prob": 0.4615,
-      "favorite": "K. Boulter",
+      "favorite": "Katie Boulter",
       "confidence": 0.0771
     },
     {
@@ -776,10 +894,12 @@
       "surface": "Clay",
       "round": "Piracicaba - Semi-finals",
       "p1": "J. B. Otegui",
+      "p1_fullname": "Bautista Otegui Juan",
       "p2": "V. C. Loureiro J.",
+      "p2_fullname": "Couto Loureiro Joao Victor",
       "p1_prob": 0.5233,
       "p2_prob": 0.4767,
-      "favorite": "J. B. Otegui",
+      "favorite": "Bautista Otegui Juan",
       "confidence": 0.0466
     },
     {
@@ -789,10 +909,12 @@
       "surface": "Clay",
       "round": "ATP Mallorca - Final",
       "p1": "Z. Svajda",
+      "p1_fullname": "Zachary Svajda",
       "p2": "D. Dzumhur",
+      "p2_fullname": "Damir Dzumhur",
       "p1_prob": 0.4779,
       "p2_prob": 0.5221,
-      "favorite": "D. Dzumhur",
+      "favorite": "Damir Dzumhur",
       "confidence": 0.0443
     },
     {
@@ -802,10 +924,12 @@
       "surface": "Grass",
       "round": "ATP Eastbourne - Final",
       "p1": "M. Arnaldi",
+      "p1_fullname": "Matteo Arnaldi",
       "p2": "T. Samuel",
+      "p2_fullname": "Toby Samuel",
       "p1_prob": 0.5156,
       "p2_prob": 0.4844,
-      "favorite": "M. Arnaldi",
+      "favorite": "Matteo Arnaldi",
       "confidence": 0.0311
     },
     {
@@ -815,10 +939,12 @@
       "surface": "Grass",
       "round": "ATP Eastbourne - Final",
       "p1": "H. Stewart",
+      "p1_fullname": "Hamish Stewart",
       "p2": "A. Vukic",
+      "p2_fullname": "Aleksandar Vukic",
       "p1_prob": 0.4846,
       "p2_prob": 0.5154,
-      "favorite": "A. Vukic",
+      "favorite": "Aleksandar Vukic",
       "confidence": 0.0308
     },
     {
@@ -828,10 +954,12 @@
       "surface": "Hard",
       "round": "Figueira Da Foz - Final",
       "p1": "D. Vidmanova",
+      "p1_fullname": "Darja Vidmanova",
       "p2": "A. Aksu",
+      "p2_fullname": "Ayla Aksu",
       "p1_prob": 0.5119,
       "p2_prob": 0.4881,
-      "favorite": "D. Vidmanova",
+      "favorite": "Darja Vidmanova",
       "confidence": 0.0239
     },
     {
@@ -841,10 +969,12 @@
       "surface": "Clay",
       "round": "Piracicaba - Semi-finals",
       "p1": "A. Hayen",
+      "p1_fullname": "Alejandro Hayen",
       "p2": "T. Martinez",
+      "p2_fullname": "Tomas Martinez",
       "p1_prob": 0.5077,
       "p2_prob": 0.4923,
-      "favorite": "A. Hayen",
+      "favorite": "Alejandro Hayen",
       "confidence": 0.0154
     },
     {
@@ -854,10 +984,12 @@
       "surface": "Clay",
       "round": "Targu Mures - Semi-finals",
       "p1": "S. A. Andreescu",
+      "p1_fullname": "Adrian Andreescu Stefan",
       "p2": "N. Barrientos",
+      "p2_fullname": "Nicolas Barrientos",
       "p1_prob": 0.5062,
       "p2_prob": 0.4938,
-      "favorite": "S. A. Andreescu",
+      "favorite": "Adrian Andreescu Stefan",
       "confidence": 0.0123
     },
     {
@@ -867,10 +999,12 @@
       "surface": "Grass",
       "round": "WTA Bad Homburg - 1/16-finals",
       "p1": "L. Samsonova",
+      "p1_fullname": "Liudmila Samsonova",
       "p2": "K. Siniakova",
+      "p2_fullname": "Katerina Siniakova",
       "p1_prob": 0.5054,
       "p2_prob": 0.4946,
-      "favorite": "L. Samsonova",
+      "favorite": "Liudmila Samsonova",
       "confidence": 0.0107
     },
     {
@@ -880,10 +1014,12 @@
       "surface": "Grass",
       "round": "WTA Eastbourne - Final",
       "p1": "P. Stearns",
+      "p1_fullname": "Peyton Stearns",
       "p2": "K. Birrell",
+      "p2_fullname": "Kimberly Birrell",
       "p1_prob": 0.501,
       "p2_prob": 0.499,
-      "favorite": "P. Stearns",
+      "favorite": "Peyton Stearns",
       "confidence": 0.0019
     }
   ]
