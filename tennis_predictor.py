@@ -24,7 +24,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 # ── Config ─────────────────────────────────────────────────────────────────────
-API_KEY  = os.environ.get("TENNIS_API_KEY", "83f1ca0d81403233614126fb77fe4d1dd9f7e28c878e6d64e700e6e4a9d38202")
+API_KEY  = os.environ.get("TENNIS_API_KEY") or "83f1ca0d81403233614126fb77fe4d1dd9f7e28c878e6d64e700e6e4a9d38202"
 BASE_URL = "https://api.api-tennis.com/tennis/"
 CACHE_DIR = "cache"
 DATA_FILE = "matches_raw.pkl"
