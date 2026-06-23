@@ -2,7 +2,7 @@ name: Daily Tennis Predictions
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # täglich 06:00 UTC (08:00 MEZ)
+    - cron: '0 2 * * *'   # täglich 02:00 UTC (04:00 MEZ)
   workflow_dispatch:        # manueller Start über GitHub UI
 
 jobs:
