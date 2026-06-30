@@ -499,6 +499,8 @@ def build_features(df: pd.DataFrame):
         sets7_p2  = form.sets_last_n_days(p2, date, 7)
         trend_p1  = elo.trend(p1, date, 90)
         trend_p2  = elo.trend(p2, date, 90)
+        rise_p1   = elo.trend(p1, date, 365)
+        rise_p2   = elo.trend(p2, date, 365)
 
         # Defending points: bester Rundenstand im selben Turnier Vorjahr
         def_p1 = defending_lookup.get((p1, t_key, year - 1), 0)
@@ -543,6 +545,9 @@ def build_features(df: pd.DataFrame):
             "elo_trend_p1":       trend_p1,
             "elo_trend_p2":       trend_p2,
             "elo_trend_diff":     trend_p1 - trend_p2,
+            "elo_rise_p1":        rise_p1,
+            "elo_rise_p2":        rise_p2,
+            "elo_rise_diff":      rise_p1 - rise_p2,
             "defending_p1":       def_p1,
             "defending_p2":       def_p2,
             "defending_diff":     def_p1 - def_p2,
@@ -744,6 +749,9 @@ def predict_today(lgbm_model, xgb_model, elo: EloEngine, form: FormTracker,
             "elo_trend_p1":     elo.trend(p1_key, date, 90),
             "elo_trend_p2":     elo.trend(p2_key, date, 90),
             "elo_trend_diff":   elo.trend(p1_key, date, 90) - elo.trend(p2_key, date, 90),
+            "elo_rise_p1":      elo.trend(p1_key, date, 365),
+            "elo_rise_p2":      elo.trend(p2_key, date, 365),
+            "elo_rise_diff":    elo.trend(p1_key, date, 365) - elo.trend(p2_key, date, 365),
             "defending_p1":     def_p1,
             "defending_p2":     def_p2,
             "defending_diff":   def_p1 - def_p2,
